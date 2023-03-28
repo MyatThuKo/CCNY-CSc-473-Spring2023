@@ -65,10 +65,10 @@ Information on how to set up a screen reader on various OSs can be found [on thi
 
 ### Checklist
 
-- [ ] format your code with `pnpm format`
-- [ ] lint your code with `pnpm lint`
-- [ ] make sure the tests pass with `pnpm test` (this runs the `axe` acessibility linter, which doesn't catch everything, but is a start)
-- [ ] grab the [WAVE browser extension](https://wave.webaim.org/extension/) and check for errors and warnings
+- [x] format your code with `pnpm format`
+- [x] lint your code with `pnpm lint`
+- [x] make sure the tests pass with `pnpm test` (this runs the `axe` acessibility linter, which doesn't catch everything, but is a start)
+- [x] grab the [WAVE browser extension](https://wave.webaim.org/extension/) and check for errors and warnings
 
 If you're submitting on Blackboard, upload a zip file named `<your_name>.zip`. The following command will zip up the folder (but not `node_modules`. Please don't hand in `node_modules`!):
 ```bash
